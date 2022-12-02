@@ -2,6 +2,9 @@ import javax.print.DocFlavor.STRING;
 
 public class Operadores {
     
+    /**
+     * @param args
+     */
     public static void main (String [] args) {
         boolean condicao1=true;
 
